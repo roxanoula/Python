@@ -1,0 +1,29 @@
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,084 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74467775805824 needed by the following entity 74506308155697
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74460501053328 needed by the following entity 74490480683137
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74460501053328 needed by the following entity 74506387017184
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74460501053328 needed by the following entity 74507472061217
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,084 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe {} needed by the following entity {}
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74460501053328 needed by the following entity 74490480683137
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] :
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] :
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe {} needed by the following entity {}
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] :
+topology-processor-5fb5b98d85-bh 2022-07-04 21:35:33,085 ERROR [IdentityServiceInMemoryUnderlyingStore] : Could not find the probe metadata for probe 74460501053328 needed by the following entity 74507472061217
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |   |
+history-7d6c76fc78-ngtff: 2022-06-28 07:47:45,982  INFO [TopologyCoordinator]	: Running hourly rollups for snapshot time 2022-06-28T07:34:16.273Z
+history-7d6c76fc78-ngtff: 2022-06-28 07:48:26,117  INFO [RollupProcessor]	:   Stage Hourly Rollups Prep: 0:00:00.018
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff: 2022-06-28 07:57:11,925  INFO [TopologyCoordinator]	: Running hourly rollups for snapshot time 2022-06-28T07:44:16.273Z
+history-7d6c76fc78-ngtff: 2022-06-28 07:57:52,054  INFO [RollupProcessor]	:   Stage Hourly Rollups Prep: 0:00:00.019
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |   |
+history-7d6c76fc78-ngtff:     Rollups:    |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |HDM|H  |H  |H  |H  |H  |   |
+(base)
